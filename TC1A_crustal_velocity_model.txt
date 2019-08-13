@@ -1,0 +1,27 @@
+This local crustal velocity model (TC1A) for locating 
+earthquakes in the Petermann Ranges is a part of the 
+eqFocus software (es&s, 2010) and is modified from the 
+velocity model used for locating earthquakes in 
+Tennent Creek by Bowman et al. (1990).
+
+Depth (km)      Vp (km/s)       Vs (km/s)
+2.8             5.47            3.34
+6.0             6.06            3.56
+21.0            6.20            3.65
+27.0            6.85            3.96
+50.5            7.30            4.22
+6371.0          8.20            4.61
+
+
+
+References
+----------
+es&s (2010). eqFocus: User and installation manual for version 3.12 (revision 1), 
+Environmental Systems and Services Pty. Ltd., 
+http://www.src.com.au/wp‐content/uploads/2014/01/eqFocus‐User‐Manual.pdf 
+(last accessed 17.10.2018)
+
+Bowman. J. R., G. Gibson, and T. Jones (1990). Aftershocks of the 1988 January 22
+Tennant Creek, Australia intraplate earthquakes: evidence for a complex thrust-fault
+geometry, Geophys. J. Int., 100, 87-97.
+ 
